@@ -9,10 +9,9 @@
 <img src="src/mysql.png" alt="MySQL" width="100"/><img src="src/postgresql.png" alt="PostgreSQL" width="80" /> <br>
 
 # Future Skills
-- <img src="src/redis.png" alt="Redis" width='80'>
-- Data Science: if want to join <a href="https://discord.gg/Re9T7AW7">
-  <img src="src/discord.png" alt="Discord" width='30'>
-</a>
+<img src="src/redis.png" alt="Redis" width='80'>
+<a href="https://discord.gg/Re9T7AW7">
+  <img src="src/data_science.png" alt="Data Science" width='30'></a>
 
 # Studies
 Coming soon...
