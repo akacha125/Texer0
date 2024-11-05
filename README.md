@@ -10,7 +10,9 @@
 
 # Future Skills
 - Redis
-- Data Science
+- Data Science: if want to join <a href="https://discord.gg/Re9T7AW7">
+  <img src="src/discord.png" alt="Discord" width='30'>
+</a>
 
 # Studies
 Coming soon...
