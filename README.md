@@ -1,7 +1,7 @@
 # Projects
 <a href="https://github.com/DevWare-C/TaskDev">
   <img src="src/devware_logo.png" alt="DaveWare" width='300'>
-</a>
+</a><br>
 # Skills
 <img src="src/python.png" alt="Python" width="80"/><img src="src/nodejs.png" alt="Node.js" width="80" />
 <img src="src/mysql.png" alt="MySQL" width="100"/><img src="src/postgresql.png" alt="PostgreSQL" width="80" /> <br>
