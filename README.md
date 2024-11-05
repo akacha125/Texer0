@@ -12,7 +12,7 @@
 <img src="src/figma.png" alt="Figma" width="170"/> <img src="src/excalidraw.png" alt="Excalidraw" width="98"/> <img src="src/postman.png" alt="PostMan" width="100"/>
 
 # Future Skills
-<img src="src/redis.png" alt="Redis" width='80'>  <a href="https://discord.gg/Re9T7AW7"><img src="src/data_science.png" alt="Data Science" width='80'></a>
+<img src="src/redis.png" alt="Redis" width='100'>  <a href="https://discord.gg/Re9T7AW7"><img src="src/data_science.png" alt="Data Science" width='100'></a>
 
 # Studies
 Coming soon...
