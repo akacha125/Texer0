@@ -7,4 +7,8 @@
 - Redis
 - Data Science
 
-<br><br> [![LinkedIn](src/linkedin.png)](https://www.linkedin.com/in/maximiliano-zonta/)
+
+<br><br>
+<a href="https://www.linkedin.com/in/maximiliano-zonta/">
+  <img src="src/linkedin.png" alt="LinkedIn">
+</a>
