@@ -8,7 +8,10 @@
 <img src="src/python.png" alt="Python" width="80"/><img src="src/nodejs.png" alt="Node.js" width="80" />
 <img src="src/mysql.png" alt="MySQL" width="100"/><img src="src/postgresql.png" alt="PostgreSQL" width="80" /> <br>
 
-# Future Skills
+# Tools
+<img src="src/figma.png" alt="Figma" width="100"/> <img src="src/excalidraw.png" alt="Excalidraw" width="100"/> <img src="src/postman.png" alt="PostMan" width="100"/>
+
+## Future Skills
 <img src="src/redis.png" alt="Redis" width='80'>  <a href="https://discord.gg/Re9T7AW7"><img src="src/data_science.png" alt="Data Science" width='80'></a>
 
 # Studies
