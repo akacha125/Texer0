@@ -1,7 +1,7 @@
 ## Proyectos
 ## Skills
-<img src="src/python.png" alt="Python" width="60"/><img src="src/nodejs.png" alt="Node.js" width="60" />
-<img src="src/mysql.png" alt="Python" width="60"/><img src="src/postgresql.png" alt="PostgreSQL" width="60" />
+<img src="src/python.png" alt="Python" width="60"/><img src="src/nodejs.png" alt="Node.js" width="60" /> <br>
+<img src="src/mysql.png" alt="Python" width="60"/><img src="src/postgresql.png" alt="PostgreSQL" width="60" /> <br>
 
 ## Future Skills
 - Redis
@@ -10,5 +10,5 @@
 
 <br><br>
 <a href="https://www.linkedin.com/in/maximiliano-zonta/">
-  <img src="src/linkedin.png" alt="LinkedIn">
+  <img src="src/linkedin.png" alt="LinkedIn" width='60'>
 </a>
