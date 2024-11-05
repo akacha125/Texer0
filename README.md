@@ -5,8 +5,8 @@
 <br>
 
 # Skills
-<img src="src/python.png" alt="Python" width="80"/><img src="src/nodejs.png" alt="Node.js" width="80" />
-<img src="src/mysql.png" alt="MySQL" width="100"/><img src="src/postgresql.png" alt="PostgreSQL" width="80" /> <br>
+<img src="src/python.png" alt="Python" width="90"/><img src="src/nodejs.png" alt="Node.js" width="90" />
+<img src="src/mysql.png" alt="MySQL" width="110"/><img src="src/postgresql.png" alt="PostgreSQL" width="90" /> <br>
 
 # Tools
 <img src="src/figma.png" alt="Figma" width="170"/> <img src="src/excalidraw2.png" alt="Excalidraw" width="98"/> <img src="src/postman.png" alt="PostMan" width="100"/>
