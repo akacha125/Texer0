@@ -20,5 +20,5 @@ Coming soon...
   <img src="src/linkedin.png" alt="LinkedIn" width='30'>
 </a>
 <a href="mailto:Max_Zta@hotmail.com">
-  <img src="src/gmail.png" alt="Gmail" width='30'>
+  <img src="src/gmail.png" alt="Gmail" width='50'>
 </a>
