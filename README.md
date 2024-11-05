@@ -1,9 +1,9 @@
-## Proyectos
-## Skills
-<img src="src/python.png" alt="Python" width="80"/><img src="src/nodejs.png" alt="Node.js" width="80" /> <br>
+# Proyectos
+# Skills
+<img src="src/python.png" alt="Python" width="80"/><img src="src/nodejs.png" alt="Node.js" width="80" />
 <img src="src/mysql.png" alt="MySQL" width="80"/><img src="src/postgresql.png" alt="PostgreSQL" width="80" /> <br>
 
-## Future Skills
+# Future Skills
 - Redis
 - Data Science
 
