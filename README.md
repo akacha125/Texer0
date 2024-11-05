@@ -12,8 +12,10 @@
 - Redis
 - Data Science
 
-
+# Studies
+Coming soon...
 <br><br>
+## Contact me
 <a href="https://www.linkedin.com/in/maximiliano-zonta/">
   <img src="src/linkedin.png" alt="LinkedIn" width='30'>
 </a>
