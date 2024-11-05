@@ -20,7 +20,7 @@ Coming soon...
 ## Contact me
 <a href="https://www.linkedin.com/in/maximiliano-zonta/">
   <img src="src/linkedin.png" alt="LinkedIn" width='40'>
-</a>   
+</a>
 <a href="mailto:Max_Zta@hotmail.com">
   <img src="src/gmail.png" alt="Gmail" width='44'>
 </a>
