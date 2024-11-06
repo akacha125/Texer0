@@ -13,9 +13,7 @@
 
 # Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,postman,vscode,figma" width="300"/><img src="src/excalidraw.png" alt="Excalidraw" width="65"/>
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord,postman,vscode,figma" width="300"/><img src="src/excalidraw.png" alt="Excalidraw" width="65"/></a>
 </p>
 
 
