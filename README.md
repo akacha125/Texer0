@@ -7,13 +7,13 @@
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,py,flask,mysql,postgres" width="560" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,py,flask,mysql,postgres" width="580" />
   </a>
 </p>
 
 # Tools
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,discord,postman,vscode,figma" width="400"/></a>    <img src="src/excalidraw.png" alt="Excalidraw" width="67"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,discord,postman,vscode,figma" width="500"/></a>    <img src="src/excalidraw.png" alt="Excalidraw" width="67"/>
 </p>
 
 
