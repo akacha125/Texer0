@@ -11,17 +11,17 @@
   </a>
 </p>
 
-# Future Skills
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis" width="75" /></a>    <a href="https://discord.gg/sVqNSnqhH4"><img src="src/data_science.png" alt="Data Science" width='77'></a>
-</p>
-
-
 # Tools
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord,postman,vscode,figma" width="300"/></a>    <img src="src/excalidraw.png" alt="Excalidraw" width="67"/>
 </p>
 
+
+
+# Future Skills
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis" width="75" /></a>    <a href="https://discord.gg/sVqNSnqhH4"><img src="src/data_science.png" alt="Data Science" width='77'></a>
+</p>
 
 # Studies
 Coming soon...
