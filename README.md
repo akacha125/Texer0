@@ -20,7 +20,7 @@
 # Future Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis" width="100" /><a href="https://discord.gg/Re9T7AW7"><img src="src/data_science.png" alt="Data Science" width='105'></a>
+    <img src="https://skillicons.dev/icons?i=redis" width="80" /><a href="https://discord.gg/Re9T7AW7"><img src="src/data_science.png" alt="Data Science" width='85'></a>
   </a>
 </p>
 
