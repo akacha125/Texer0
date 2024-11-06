@@ -13,14 +13,14 @@
 
 # Tools
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord,postman,vscode,figma" width="300"/><img src="src/excalidraw.png" alt="Excalidraw" width="65"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord,postman,vscode,figma" width="300"/><img src="src/excalidraw.png" alt="Excalidraw" width="70"/></a>
 </p>
 
 
 # Future Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis" width="100" /><a href="https://discord.gg/Re9T7AW7"><img src="src/data_science.png" alt="Data Science" width='100'></a>
+    <img src="https://skillicons.dev/icons?i=redis" width="100" /><a href="https://discord.gg/Re9T7AW7"><img src="src/data_science.png" alt="Data Science" width='105'></a>
   </a>
 </p>
 
