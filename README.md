@@ -1,6 +1,6 @@
 # Projects
 <a href="https://github.com/DevWare-C/TaskDev">
-  <img src="src/devware_logo.png" alt="DaveWare" width='300'>
+  <img src="src/taskdev.png" alt="TaskDev" width='300'>
 </a>
 <br>
 
