@@ -13,7 +13,7 @@
 
 # Tools
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,discord,postman,vscode,figma" width="470"/></a>    <img src="src/excalidraw.png" alt="Excalidraw" width="70"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" width="470"/></a>    <img src="src/excalidraw.png" alt="Excalidraw" width="86"/>
 </p>
 
 
@@ -23,8 +23,6 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis" width="75" /></a>    <a href="https://discord.gg/sVqNSnqhH4"><img src="src/data_science.png" alt="Data Science" width='77'></a>
 </p>
 
-# Studies
-Coming soon...
 <br><br>
 ## Contact me
 <p align="center">
