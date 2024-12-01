@@ -7,7 +7,7 @@
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,py,flask,mysql,postgres" width="560" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,py,flask,mysql,postgres" width="560" /><br><img src="https://skillicons.dev/icons?i=react,tailwind" width="180" />
   </a>
 </p>
 
