@@ -1,6 +1,6 @@
 # Projects
 <a href="https://github.com/Texer0/Visionary">
-  <img src="src/Visionary.png" alt="Visionary" width='300'>
+  <img src="src/Visionary.png" alt="Visionary" width='400'>
 </a>
 <br>
 
