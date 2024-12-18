@@ -1,6 +1,6 @@
 # Projects
-<a href="https://github.com/DevWare-C/TaskDev">
-  <img src="src/taskdev.png" alt="TaskDev" width='300'>
+<a href="https://github.com/Texer0/Visionary">
+  <img src="src/Visionary.png" alt="Visionary" width='300'>
 </a>
 <br>
 
